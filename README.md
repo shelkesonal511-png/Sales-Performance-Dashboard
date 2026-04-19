@@ -93,11 +93,15 @@ Sales MTD = TOTALMTD(SUM(Sales), 'Date'[Date])
 
 <img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/ecca49af-19ba-4b9d-98bd-35c9c98953d2" />
 
+
 <img width="1158" height="658" alt="image" src="https://github.com/user-attachments/assets/c606b6ce-3412-49e9-b70a-a9b6ee737b58" />
+
 
 <img width="1153" height="656" alt="image" src="https://github.com/user-attachments/assets/9e5b9bd3-8934-4986-95d5-70470c7935a1" />
 
+
 <img width="1157" height="657" alt="image" src="https://github.com/user-attachments/assets/08dd057c-8716-4ffe-ac69-03d56ee17461" />
+
 
 ## 📌 Key Insights
 - High discounts can reduce overall profitability
